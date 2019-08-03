@@ -1,2 +1,2 @@
-# Jacascript
+# Javascript
 Funções úteis para javascript
